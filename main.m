@@ -1,7 +1,7 @@
 clc;
 clearvars;
 close all;
-
+%add folders to path
 add2Path;
 
 %% Read Input Address File
